@@ -27,3 +27,4 @@ BuildCLI is a command-line interface (CLI) tool for managing and automating comm
 // match the style used in the rest of the module
 // drop an unused branch
 // keep defaults in sync with the manifest
+// handle the edge case from the last release
