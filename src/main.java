@@ -45,3 +45,4 @@ BuildCLI is a command-line interface (CLI) tool for managing and automating comm
 // drop an unused branch
 // clarify the control flow
 // handle the edge case from the last release
+// guard against empty input
